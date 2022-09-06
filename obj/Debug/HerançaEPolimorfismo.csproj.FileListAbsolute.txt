@@ -1,0 +1,8 @@
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\bin\Debug\HerançaEPolimorfismo.exe.config
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\bin\Debug\HerançaEPolimorfismo.exe
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\bin\Debug\HerançaEPolimorfismo.pdb
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\obj\Debug\HerançaEPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\obj\Debug\HerançaEPolimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\obj\Debug\HerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\obj\Debug\HerançaEPolimorfismo.exe
+C:\Users\Icaro\Desktop\GIT-Projetos\Csharp-EnumEComposicao\HerançaEPolimorfismo\obj\Debug\HerançaEPolimorfismo.pdb
